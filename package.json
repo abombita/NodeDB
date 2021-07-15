@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abombita/NodeDB/issues"
   },
-  "homepage": "https://github.com/abombita/NodeDB#readme"
+  "homepage": "https://github.com/abombita/NodeDB#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
